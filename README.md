@@ -27,10 +27,10 @@ I supervised these projects and can vouch for the **code quality and use of ML m
 These projects were developed as final work for the course and:
 
 - Use **clean, reproducible Python notebooks** (pandas, scikit‑learn, statsmodels, etc.).  
-- Implement proper **train/test splits for time series**, baselines, and comparisons across linear and non‑linear models.  
+- Implement proper **train/test splits for time series**, baselines, and comparisons across linear and non‑linear Machine Learning models.  
 - Include at least a basic **causal diagram (DAG)** to organize the economic story behind the data.
 
 I have read the code, discussed it with the authors, and I’m comfortable recommending these repositories as **reference material for students and practitioners** who want to see how economic questions can be tackled with modern Python tooling.
 
-For the honorary project on **fiscal deficit and expectations**, I understand and endorse the **programming and ML workflow**, but I do **not** claim deep expertise in fiscal‑deficit economics—so any macro interpretation of that project should be read with that caveat in mind.
+For the honorary project on **fiscal deficit and expectations**, I understand and endorse the **programming and ML workflow**, but I do **not** claim deep expertise in fiscal‑deficit economics—so any macro interpretation of that project should be read with that caveat in mind. I do not own these repositories, and any contact and modification should be done within the links provided.
 
