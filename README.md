@@ -6,7 +6,7 @@ I supervised these projects and can vouch for the **code quality and use of ML m
 
 ---
 
-## TL;DR – The projects
+## The projects
 
 - 🇵🇪 **Core inflation nowcasting (Peru)**  
   → [Grupo 3 – ICD](https://github.com/yanirasilva-star/GRUPO-3-ICD)  
