@@ -1,5 +1,4 @@
-# UDEP-Economics-Machine-Learning-Selected-Student-Projects
-Selected Projects of my Machine Learning and Python Class at UDEP 2025.
+
 # UDEP – Economics & Machine Learning: Selected Student Projects
 
 This repository collects a small set of student projects from the course **“Introduction to Machine Learning with Python”** (Economics, Universidad de Piura).  
